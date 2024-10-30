@@ -78,17 +78,17 @@ $sslcert    = 'ssl/DigiCertGlobalRootCA.crt.pem';
  * 
  */
 
- /* <**********  DELETE THIS LINE IF YOU WANT TO ENABLE THIS SECTION    ****** 
+ * <**********  DELETE THIS LINE IF YOU WANT TO ENABLE THIS SECTION    ****** 
 
 # <?php
 
 // Configuration for database connection
 
 # REMOTE DECLARATION
-$host       = getenv('DB_HOST');
-$username   = getenv('DB_USERNAME');
-$password   = getenv('DB_PASSWORD');
-$db_name     = getenv('DB_DATABASE');
+$host       = getenv('deltatrack-webapp-server.mysql.database.azure.com');
+$username   = getenv('ykcgwrlzjm');
+$password   = getenv('taXboe01tB$6kZJi');
+$db_name     = getenv('deltatrack-webapp-server');
 $sslcert    = 'ssl/DigiCertGlobalRootCA.crt.pem';
 #$sslcert   = getenv('DB_SSLCERT');
 
