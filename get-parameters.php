@@ -85,11 +85,11 @@ $sslcert    = 'ssl/DigiCertGlobalRootCA.crt.pem';
 // Configuration for database connection
 
 # REMOTE DECLARATION
-$host       = getenv('deltatrack-webapp-server.mysql.database.azure.com');
-$username   = getenv('ykcgwrlzjm');
-$password   = getenv('taXboe01tB$6kZJi');
-$db_name     = getenv('deltatrack-webapp-server');
-$sslcert    = 'ssl/DigiCertGlobalRootCA.crt.pem';
+#$host       = getenv('deltatrack-webapp-server.mysql.database.azure.com');
+#$username   = getenv('ykcgwrlzjm');
+#$password   = getenv('taXboe01tB$6kZJi');
+#$db_name     = getenv('deltatrack-webapp-server');
+#$sslcert    = 'ssl/DigiCertGlobalRootCA.crt.pem';
 #$sslcert   = getenv('DB_SSLCERT');
 
 # LOCAL DECLARATION
