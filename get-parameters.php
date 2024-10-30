@@ -78,7 +78,7 @@ $sslcert    = 'ssl/DigiCertGlobalRootCA.crt.pem';
  * 
  */
 
- * <**********  DELETE THIS LINE IF YOU WANT TO ENABLE THIS SECTION    ****** 
+
 
 # <?php
 
